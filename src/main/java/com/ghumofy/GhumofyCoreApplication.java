@@ -9,5 +9,4 @@ public class GhumofyCoreApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(GhumofyCoreApplication.class, args);
 	}
-
 }
